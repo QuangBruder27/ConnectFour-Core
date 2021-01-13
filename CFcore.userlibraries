@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Python 3.7 interpreter library" />
+  <library name="scala-sdk-2.13.1">
+    <archive path="C:/Users/cfop2/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.1.jar" />
+    <archive path="C:/Users/cfop2/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.13.1.jar" />
+    <archive path="C:/Users/cfop2/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.13.1-sources.jar" />
+    <archive path="C:/Users/cfop2/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.13.1-sources.jar" />
+  </library>
+</eclipse-userlibraries>
+
